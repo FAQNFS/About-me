@@ -1,4 +1,6 @@
-Привет, я Никита!
+**Привет, я Никита!**
+
+![Моё фото](https://user-images.githubusercontent.com/129405661/231771193-7bbc3fa3-adbc-47c5-b2ce-3ec860ed78d5.jpeg)
 
 Мне 31
 
